@@ -1,6 +1,8 @@
 ## Hi there 👋 I am [Gina](https://nnjh12.github.io/portfolio/)
 
-I’m a freelance full-stack developer💡 with an MS in Computer Science from [Syracuse University](https://ecs.syracuse.edu/). I love puzzle-solving 🧠 and feel thrilled when my code works just right 🤩! Right now, I’m working on some personal projects 📚 and exploring my passion for machine learning and AI 💜!
+I’m a full-stack developer💡 with an MS in Computer Science from [Syracuse University](https://ecs.syracuse.edu/). 
+
+I love puzzle-solving 🧠 and feel thrilled when my code works just right 🤩! Right now, I’m working on some personal projects 📚 and exploring my passion for machine learning and AI 💜!
 
 <!--
 **nnjh12/nnjh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
