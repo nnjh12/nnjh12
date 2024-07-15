@@ -11,7 +11,7 @@ I love puzzle-solving and feel thrilled when my code works just right! Right now
 * Full-Stack Development: HTML, CSS, React, Node.js, MongoDB, MySQL, Firebase, Git
 * Machine Learning: TensorFlow, Pytorch, Scikit-learn, Numpy
 
-### My Projects
+### Projects
 * Full-Stack Development: [BookmarKIT](https://github.com/nnjh12/bookmarKIT), [QueerWed](https://github.com/nnjh12/QueerWed), [FETCHR](https://github.com/nnjh12/FETCHR)
 * iOS App Development: [TimeCracker](https://github.com/nnjh12/TimeCracker)
 * AI/ML: [AI TIC-TAC-TOE](https://github.com/nnjh12/AI-TicTacToe), [ML Projects](https://github.com/nnjh12/ML-Projects)
