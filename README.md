@@ -14,7 +14,7 @@ I love puzzle-solving and mathematics, which naturally drew me to becoming a sof
 ### Projects
 * Full-Stack Development: [BookmarKIT](https://github.com/nnjh12/bookmarKIT), [QueerWed](https://github.com/nnjh12/QueerWed), [FETCHR](https://github.com/nnjh12/FETCHR)
 * iOS App Development: [TimeCracker](https://github.com/nnjh12/TimeCracker)
-* AI/ML: [AI TIC-TAC-TOE](https://github.com/nnjh12/AI-TicTacToe), [ML Projects](https://github.com/nnjh12/ML-Projects)
+* AI/ML: [AI Tic-tac-toe](https://github.com/nnjh12/AI-TicTacToe), [ML Projects](https://github.com/nnjh12/ML-Projects)
 * Games: [Clicky Game](https://github.com/nnjh12/ClickyGame), [Crystal Collector](https://github.com/nnjh12/CrystalCollector), [Giphy](https://github.com/nnjh12/Giphy-API), [Trivia](https://github.com/nnjh12/TriviaGame), [Word Guess Game](https://github.com/nnjh12/Word-Guess-Game) 
 
 <!--
