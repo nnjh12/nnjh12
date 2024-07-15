@@ -2,7 +2,7 @@
 
 I’m a full-stack developer with an MS in Computer Science from [Syracuse University](https://ecs.syracuse.edu/). 
 
-I love puzzle-solving and feel thrilled when my code works just right! Right now, I’m working on some personal projects and exploring my passion for machine learning and AI 💜!
+I love puzzle-solving and mathematics, which naturally drew me to becoming a software engineer, a field where I thrive. I enjoy every moment of problem-solving and feel thrilled when my code works just right! Right now, I’m working on some personal projects and also exploring my passion for machine learning and AI💜!
 
 🌐 [My Website](https://nnjh12.github.io/portfolio/)
 
