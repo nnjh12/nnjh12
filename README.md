@@ -6,7 +6,7 @@ I love puzzle-solving and feel thrilled when my code works just right! Right now
 
 🌐 [My Website](https://nnjh12.github.io/portfolio/)
 
-### Technologies and Tools
+### Skills
 * Programming Languages: Python, JavaScript, Java, Swift, Haskell, Racket, C/C++
 * Full-Stack Development: HTML, CSS, React, Node.js, MongoDB, MySQL, Firebase, Git
 * Machine Learning: TensorFlow, Pytorch, Scikit-learn, Numpy
